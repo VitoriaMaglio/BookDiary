@@ -23,6 +23,71 @@ Favoritos) e opção para adicionar novos livros.
 • Tela de Detalhes do Livro: apresenta as informações do livro e permite registrar comentários, anotações, atualizar o progresso da leitura e alterar seu status.
 Escalabilidade
 
+ Telas e Funcionalidades
+1. Tela de Login
+Objetivo: autenticar o usuário e permitir acesso à aplicação.
+
+Elementos
+- Logo do BookDiary
+
+- Campo de e-mail
+
+- Campo de senha
+
+- Botão Entrar
+
+- Link Criar conta
+
+Features
+- Login com e-mail e senha
+
+- Autenticação utilizando JWT (JSON Web Token)
+
+- Controle de sessão e acesso seguro
+
+2. Tela Inicial — Minha Biblioteca
+Objetivo: exibir e organizar os livros cadastrados pelo usuário.
+
+Elementos
+- Barra de pesquisa
+
+- Lista de livros
+
+- Botão Adicionar Livro
+
+- Filtros por status (Lendo, Lidos e Favoritos)
+
+Features
+- Cadastro e organização de livros
+
+- Pesquisa por título
+
+- Filtragem por status da leitura
+  
+- Monitoramento de uso com Firebase Analytics
+
+3. Tela de Detalhes do Livro
+Objetivo: acompanhar o progresso da leitura e registrar informações sobre cada livro.
+
+Elementos
+- Capa do livro
+
+- Título e autor
+
+- Status da leitura
+
+- Campo para comentários e anotações
+
+- Botão Salvar
+
+Features
+- Registro de comentários e anotações
+
+- Atualização do progresso da leitura
+
+- Alteração do status do livro
+
+- Edição das informações cadastradas
 
 ## Segurança
 
