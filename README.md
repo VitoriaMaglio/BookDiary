@@ -23,7 +23,6 @@ Favoritos) e opção para adicionar novos livros.
 • Tela de Detalhes do Livro: apresenta as informações do livro e permite registrar comentários, anotações, atualizar o progresso da leitura e alterar seu status.
 Escalabilidade
 
-A aplicação será desenvolvida utilizando arquitetura cliente servidor e API REST, possibilitando a inclusão de novas funcionalidades, como metas de leitura, recomendações de livros e avaliações, sem comprometer sua estrutura.
 
 ## Segurança
 
